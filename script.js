@@ -5,7 +5,7 @@ document.getElementById('writeForm').addEventListener('submit', function(event) 
     const content = document.getElementById('content').value;
     const token = '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'; // Replace with your GitHub token
     const owner = 'RvnBBn'; // Replace with your GitHub username
-    const repo = 'Hatzjohn'; // Replace with your GitHub repository name
+    const repo = ' RvnBBn/Hatzjohn'; // Replace with your GitHub repository name
 
     const path = filename;
     const message = `Update ${filename}`;
